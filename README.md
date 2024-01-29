@@ -1,22 +1,22 @@
-Welcome to my GitHub
+<h1>Welcome to my GitHub</h1>
 👋 Hi there! I'm Hieu Hoang, a sophomore at Tampere University, Finland, pursuing a Bachelor's in Computing and Electrical Engineering. Welcome to my GitHub!
 
-About Me
+<h2>About Me</h2>
 🚀 Enthusiastic about software and system engineering, I focus on programming in Python, C, C++, Java, JavaScript and SQL. My passion extends to 
 
-Skills
+<h2>Skills</h2>
 🖥️ Proficient in Python, C++, Java, JavaScript and SQL.
 
 💽 Experienced in 
 
 🌐 Currently exploring AWS and Azure for cloud computing.
 
-Current Focus
+<h2>Current Focus</h2>
 📚 Dedicated to advancing skills in Data Engineering with AWS and Azure, staying updated on the latest technologies.
 
-Let's Connect!
-📧 Reach out via email at hoangvuhieu1802@gmail.com
+<h2>Let's Connect!</h2>
+📧 Reach out via email at <b>hoangvuhieu1802@gmail.com</b>
 
-🔗 Connect on LinkedIn for professional networking.
+🔗 Connect on [LinkedIn](www.linkedin.com/in/hieuhoang018) for professional networking.
 
 Let's build something amazing together! 🚀
