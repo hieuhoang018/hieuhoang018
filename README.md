@@ -2,7 +2,7 @@
 👋 Hi there! I'm Hieu Hoang, a sophomore at Tampere University, Finland, pursuing a Bachelor's in Computing and Electrical Engineering. Welcome to my GitHub!
 
 <h2>About Me</h2>
-🚀 Enthusiastic about software and system engineering, I focus on programming in Python, C, C++, Java, JavaScript and SQL. My passion extends to 
+🚀 Enthusiastic about software and system engineering, I focus on programming in Python, C++, Java, JavaScript and SQL. My passion extends to 
 
 <h2>Skills</h2>
 🖥️ Proficient in Python, C++, Java, JavaScript and SQL.
