@@ -12,7 +12,7 @@
 🌐 Currently exploring AWS and Azure for cloud computing.
 
 <h2>Current Focus</h2>
-📚 Dedicated to advancing skills in Fullstack Development and Software Engineering using MERN stack, staying updated on the latest technologies.
+📚 Dedicated to advancing skills in Fullstack Development and Software Engineering, staying updated on the latest technologies.
 
 <h2>Let's Connect!</h2>
 📧 Reach out via email at <b>hoangvuhieu1802@gmail.com</b>
