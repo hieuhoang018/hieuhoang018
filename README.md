@@ -17,6 +17,6 @@
 ## Let's Connect!
 📧 Reach out via email at <b>hoangvuhieu1802@gmail.com</b>
 
-🔗 Connect on [LinkedIn](www.linkedin.com/in/hieuhoang018) for professional networking.
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/hieuhoang018/) for professional networking.
 
 Let's build something amazing together! 🚀
