@@ -1,12 +1,43 @@
-## Welcome to my GitHub
-👋 Hi there! I'm Hieu Hoang, a student at Tampere University, Finland, pursuing a Master's in Software, Web & Cloud. Welcome to my GitHub!
+# Welcome to my GitHub! 👋
 
-## My Languages
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="120" > <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="120"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="120"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="120"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="120">
+Hi there! I'm **Hieu Hoang**, a Software Engineer and Master's student in **Software, Web & Cloud** at Tampere University, Finland.
 
+I'm passionate about software engineering, full-stack development, cloud computing, and building scalable applications.
 
-## My Socials
-📧 <b>hoangvuhieu1802@gmail.com</b>
+## My stack
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hieuhoang018/)
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+</p>
 
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,prisma" />
+</p>
+
+### 🗄️ Databases & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,linux" />
+</p>
+
+### 🔧 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+## 📫 Connect With Me
+
+📧 **Email:** hoangvuhieu1802@gmail.com
+
+🔗 **LinkedIn:** [linkedin.com/in/hieuhoang018](https://www.linkedin.com/in/hieuhoang018)
